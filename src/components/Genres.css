@@ -1,0 +1,23 @@
+.genres {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.genres li {
+  margin-bottom: 12px;
+}
+
+.genres a {
+  /* display: block; */
+  text-decoration: none;
+  padding: 6px 8px;
+  border: 1px solid #acacac;
+  border-radius: 4px;
+  background: #dadada;
+  transition: all 0.4s ease;
+}
+
+.genres a:hover {
+  background: #acacac;
+}

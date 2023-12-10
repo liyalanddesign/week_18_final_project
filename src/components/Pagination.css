@@ -1,0 +1,12 @@
+.custom-btn-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.custom-btn-group .custom-btn {
+  min-width: 120px !important;
+  max-width: 220px !important;
+  margin: 10px;
+}
+.custom-btn-group .current-page {
+}

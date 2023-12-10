@@ -1,0 +1,25 @@
+.movie_id {
+  font-size: 18px;
+  margin-bottom: 32px;
+  padding: 10px;
+  border-bottom: 1px solid #acacac;
+}
+.card .language {
+  font-size: 16px;
+}
+.card .language span {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.info {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.info .release_date {
+  margin-left: 18px;
+}
